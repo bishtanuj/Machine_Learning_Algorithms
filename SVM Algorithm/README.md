@@ -1,1 +1,1 @@
-# Support Vector Machine Algorithm
+# Support Vector Machine (SVM) Algorithm
