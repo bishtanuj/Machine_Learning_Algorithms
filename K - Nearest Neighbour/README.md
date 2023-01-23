@@ -22,4 +22,5 @@
 
 ### NOTE
 ***UNDERFITTING:*** A model is said to be in underfitting if the training accuracy is low i.e., model is not able to perform well during the training time.
+
 ***OVERFITTING:*** A machine learning model is said to be overfitting if the training accuracy is high and the testing accuracy is low i.e., the model is not able to perform well or capture the variation in the test data.
