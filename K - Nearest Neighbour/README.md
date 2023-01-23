@@ -12,3 +12,15 @@
 3. New data can be added easily because it is a lazy learner, because it does no training at all when you supply the training data. At the training time, all it is doing is storing the complete dataset, but it doesn't do any calculation at this point.
 4. No assumption about the data.
 5. Quick calculation time.
+
+
+## Disadvantages of KNN
+1. It doesnot work well with the high dimension.
+2. Computaional complexity increases with increase in the size of the dataset and in turn the speed decreases.
+3. KNN is sensitive to noisy data, missing data and outliers. So, we need to manually input the missing values and remove the outliers.
+4. Incorrect value of K, can lead to underfitting or overfitting problem.
+
+### NOTE
+***UNDERFITTING:***
+
+A model is said to be in underfitting if the training accuracy is low i.e., model is not able to perform well during the training time.
