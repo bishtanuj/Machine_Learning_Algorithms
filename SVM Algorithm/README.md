@@ -4,3 +4,8 @@
 * In other words, given labeled training data (supervised learning), the algorithm outputs an optimal hyperplane which categorizes new examples.
 * Support Vector Machine is a supervised machine learning algorithm which can be used for both classification and regression.
 * Majorly used for classification.
+
+## Support Vector
+* Support Vector are data points that are closer to the hyperplane and influence the position and orientaion of the hyperplane.
+* Using these support vectors, we maximize the margin of the classifier.
+* Deleting the support vectors will change the position of the hyperplane.
