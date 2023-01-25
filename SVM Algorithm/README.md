@@ -28,5 +28,7 @@
 1. It works efficiently with non-linear data by using kernel techinque.
 2. It can be used for both classification problems as well as regression problems.
 3. SVM has regularization features which prevent it from the overfitting problem.
+4. SVM is more effective in high-dimesional spaces.
+5. It gives us stable model. It means a small change to data doesnot greatly affect the hyperplane.
 
 
