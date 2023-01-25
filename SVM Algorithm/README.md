@@ -25,3 +25,8 @@
 
 
 ## Advantages of SVM
+1. It works efficiently with non-linear data by using kernel techinque.
+2. It can be used for both classification problems as well as regression problems.
+3. SVM has regularization features which prevent it from the overfitting problem.
+
+
