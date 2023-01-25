@@ -9,3 +9,8 @@
 * Support Vector are data points that are closer to the hyperplane and influence the position and orientaion of the hyperplane.
 * Using these support vectors, we maximize the margin of the classifier.
 * Deleting the support vectors will change the position of the hyperplane.
+
+## Hyperplane
+* Hyperplanes are decision boundaries that help classify the data points.
+* Data points falling on either side of the hyperplane can be attributed to different classes.
+* In simple term, it is the ability of machine learning model to correctly differentiate/separate/classify between different groups of data. 
