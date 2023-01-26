@@ -39,3 +39,8 @@
 4. SVM model requires feature scalling.
 5. Long training time on large datasets.
 6. Difficult to interpret, and difficult to understand by human being unlike decision tree.
+
+
+## Some important keywords of SVM 
+#### Linearly Separable Data:
+Data that can be separate with the equation of line.
