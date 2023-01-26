@@ -32,3 +32,9 @@
 5. It gives us stable model. It means a small change to data doesnot greatly affect the hyperplane.
 
 
+## Disadvantages of SVM
+1. Choosing an appropriate kernel function to handle the non-linear data is not an easy task. It could be tricky and complex.
+2. In case of using a high dimensional kernel, you might generate too many support vectors which reduce the training drastically.
+3. Extensive memory requirement. Algorithmic complexity and memory requirement of SVM are very high, you need a lot of memory since you have to store all the support vectors also in the memory. 
+
+
