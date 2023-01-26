@@ -36,5 +36,6 @@
 1. Choosing an appropriate kernel function to handle the non-linear data is not an easy task. It could be tricky and complex.
 2. In case of using a high dimensional kernel, you might generate too many support vectors which reduce the training drastically.
 3. Extensive memory requirement. Algorithmic complexity and memory requirement of SVM are very high, you need a lot of memory since you have to store all the support vectors also in the memory. 
-
-
+4. SVM model requires feature scalling.
+5. Long training time on large datasets.
+6. Difficult to interpret, and difficult to understand by human being unlike decision tree.
