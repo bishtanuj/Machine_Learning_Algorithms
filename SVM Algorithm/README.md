@@ -44,3 +44,13 @@
 ## Some important keywords of SVM 
 #### Linearly Separable Data:
 Data that can be separate with the equation of line.
+
+#### Non-linearly Separable Data:
+Data that cannot be separate with the equation of line.
+
+#### KERNEL:
+It is used to convert the data from low dimension to high dimension, so that the seapration of data becomes easy.
+
+#### Margin:
+Distance between the closest point to hyperplanes of classes.
+
