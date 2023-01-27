@@ -8,7 +8,7 @@
 ## Component of Time Series Analysis
 * The reasons or forces that change the attributes of a time series are known as the components of time series.
 * The following are the components of time series - 
-1. Trend 
+&emsp;&emsp; 1. Trend 
 2. Seasonal Variations 
 3. Cyclical Variations
 4. Random or Irregular Movements
