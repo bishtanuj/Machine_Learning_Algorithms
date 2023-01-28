@@ -36,3 +36,11 @@
 &emsp; 3. Depression <br>
 &emsp; 4. Recovery <br>
 - It may be regular or non-periodic in nature. Usually, cyclical variations occur due to a combination of two or more economic forces and their interations.
+
+
+### Random or Irregular Movements
+- There is another kind of movement that can be seen in the case of time series.
+- It is pure Irregular and Random Movement.
+- As the name suggests, no hypothesis or trend can be used to suggest irregular or random movements in a time series.
+- These outcomes are unforeseen, erratic, unpredictable, and uncontrollable in nature.
+- Earthquakes, war, famine and floods are some examples.
