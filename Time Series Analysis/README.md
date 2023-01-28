@@ -22,6 +22,9 @@
 - A trend can be either linear or non-linear.
 
 
-## Seasonal Variations
+### Seasonal Variations
 - Seasonal variations can be clearly seen in some cases of man-made conventions.
 - The festivals, customs, fashions, habits, and various occasions, such as weddings impact the seasonal variations. As increase in business in business during seasonal variation period should not be considered a better business condition.
+
+
+###
