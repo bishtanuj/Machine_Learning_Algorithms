@@ -27,4 +27,12 @@
 - The festivals, customs, fashions, habits, and various occasions, such as weddings impact the seasonal variations. As increase in business in business during seasonal variation period should not be considered a better business condition.
 
 
-###
+### Cyclical Variations
+- Variations in time series that occur themselves for the span of more than a year are called Cyclical Variations.
+- Such oscillatory movements of time series often have a duration of more than a year. One complete period of operation is called either a cycle or a 'Business Cycle'.
+- Cyclic Variations contain four phases and they are as follows:
+&emsp; 1. Prosperity
+&emsp; 2. Recession
+&emsp; 3. Depression
+&emsp; 4. Recovery
+
