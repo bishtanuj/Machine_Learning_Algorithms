@@ -31,8 +31,8 @@
 - Variations in time series that occur themselves for the span of more than a year are called Cyclical Variations.
 - Such oscillatory movements of time series often have a duration of more than a year. One complete period of operation is called either a cycle or a 'Business Cycle'.
 - Cyclic Variations contain four phases and they are as follows:
-&emsp; 1. Prosperity
-&emsp; 2. Recession
-&emsp; 3. Depression
-&emsp; 4. Recovery
-
+&emsp; 1. Prosperity <br>
+&emsp; 2. Recession <br>
+&emsp; 3. Depression <br>
+&emsp; 4. Recovery <br>
+- It may be regular or non-periodic in nature. Usually, cyclical variations occur due to a combination of two or more economic forces and their interations.
