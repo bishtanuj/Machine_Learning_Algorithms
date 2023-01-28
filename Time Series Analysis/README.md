@@ -20,6 +20,7 @@
 - The trend is a stable and long-term general tendency of movement of the data.
 - To be a trend, it is not mandatory for the data to move in the same direction.
 - A trend can be either linear or non-linear.
+- Some of the examples of trends include – the number of schools,agricultural production, increase in population, etc. It is notable that the trend may move upward, go downward or remain stable over different sections of time.
 
 
 ### Seasonal Variations
