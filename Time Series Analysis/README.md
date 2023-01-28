@@ -12,3 +12,6 @@
 &emsp; 2. Seasonal Variations <br> 
 &emsp; 3. Cyclical Variations <br>
 &emsp; 4. Random or Irregular Movements
+
+
+### Trend
