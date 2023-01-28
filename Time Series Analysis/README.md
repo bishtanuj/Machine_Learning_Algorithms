@@ -15,3 +15,8 @@
 
 
 ### Trend
+- Trend shows a common tendency of data.
+- It may move upward or increase or go downward or decrese over a certain, long period of time.
+- The trend is a stable and long-term general tendency of movement of the data.
+- To be a trend, it is not mandatory for the data to move in the same direction.
+- A trend can be either linear or non-linear.
