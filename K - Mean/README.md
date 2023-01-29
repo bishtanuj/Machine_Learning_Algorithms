@@ -30,4 +30,4 @@
 
 ### Step 6:
 - Keep repeating the procedure from Step 3 to Step 5 until any of the following stopping criteria met - <br>
-&emsp; * Center of newly formed clusters do not change
+&emsp; > Center of newly formed clusters do not change
