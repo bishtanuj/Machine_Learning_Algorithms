@@ -9,3 +9,13 @@
 
 ## Steps of Algorithm
 ### Step 1: Choose the value of Hyperparameter (k)
+
+### Step 2: Choose the cluster centres
+- Randomly select any k data points as cluster centers.
+- Select cluster centres in such a way that they are as farther as possible from each other.
+
+### Step 3: Compute the distance between cluster centres and data instances
+- Calculate the distance between each data point and each cluster center.
+- The distance may be calculated either by using given distance function (like Euclidian distance or Manhattan distance formula).
+
+
