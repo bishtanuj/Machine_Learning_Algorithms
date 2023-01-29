@@ -5,4 +5,7 @@
 - The three required information to proceed in the algorithm are as follows - <br>
 &emsp; 1. n = number of instances <br>
 &emsp; 2. k = number of clusters <br>
-&emsp; 3. t = number of iterations <br>
+&emsp; 3. t = number of iterations 
+
+## Steps of Algorithm
+### Step 1: Choose the value of Hyperparameter (k)
