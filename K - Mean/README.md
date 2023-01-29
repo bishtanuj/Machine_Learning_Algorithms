@@ -25,3 +25,9 @@
 - A data point is aaigned to that cluster whose center is nearest to that data point.
 
 ### Step 5: 
+- Re - compute the center of newly formed cluster.
+- The center of a cluster is computed by taking mean of all the data points contained in that cluster.
+
+### Step 6:
+- Keep repeating the procedure from Step 3 to Step 5 until any of the following stopping criteria met - 
+&emsp; - Center of newly formed clusters do not change
