@@ -19,3 +19,9 @@
 - The distance may be calculated either by using given distance function (like Euclidean distance or Manhattan distance formula). <br>
 &emsp; Euclidean Distance = $\sqrt{(x2-x1)^2 + (y2-y1)^2}$ <br>
 &emsp; Manhattan Distance = $\|x2 - x1| + |y2 - y1|$
+
+### Step 4: Assignment of data instance to cluster on the basis of minimum distance
+- Assign each data point to some cluster.
+- A data point is aaigned to that cluster whose center is nearest to that data point.
+
+### Step 5: 
