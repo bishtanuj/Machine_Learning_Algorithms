@@ -16,6 +16,6 @@
 
 ### Step 3: Compute the distance between cluster centres and data instances
 - Calculate the distance between each data point and each cluster center.
-- The distance may be calculated either by using given distance function (like Euclidian distance or Manhattan distance formula).
+- The distance may be calculated either by using given distance function (like Euclidean distance or Manhattan distance formula).
 
 
