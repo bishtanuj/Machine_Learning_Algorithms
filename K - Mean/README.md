@@ -18,4 +18,4 @@
 - Calculate the distance between each data point and each cluster center.
 - The distance may be calculated either by using given distance function (like Euclidean distance or Manhattan distance formula).
 &emsp; Euclidean Distance = $\sqrt{(x2-x1)^2 + (y2-y1)^2}$ <br>
-&emsp; Manhattan Distance = |x2 - x1| + |y2 - y1|
+&emsp; Manhattan Distance = $\|x2 - x1| + |y2 - y1|$
