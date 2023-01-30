@@ -4,7 +4,7 @@
 * The algorithm is used both for classification and regression.
 * In case of outliers or class inbalance problems, KNN can give inaccurate result.
 * The distance matrix used in KNN is euclidean distance, which is used to calculate the distance between any two points. <br>
-&emsp; Euclidean Distance = $\sqrt{(x~2-x1)^2 + (y2-y1)^2}$
+&emsp; Euclidean Distance = $\sqrt{(x~2~-x1)^2 + (y2-y1)^2}$
 
 
 ## Advantages of KNN
