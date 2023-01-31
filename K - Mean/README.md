@@ -4,8 +4,8 @@
 - K - Mean falls under the category of centroid based clustering.
 - The three required information to proceed in the algorithm are as follows - <br>
 &emsp; _n = number of instances_ <br>
-&emsp; k = number of clusters <br>
-&emsp; t = number of iterations 
+&emsp; _k = number of clusters_ <br>
+&emsp; _t = number of iterations_ 
 
 ## Steps of Algorithm
 ### Step 1: Choose the value of Hyperparameter (k)
