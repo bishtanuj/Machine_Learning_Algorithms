@@ -2,7 +2,7 @@
 [![Issues](https://img.shields.io/github/issues/bishtanuj/Machine_Learning_Algorithms?style=for-the-badge)](./ISSUES) &emsp;
 [![Stars](https://img.shields.io/github/stars/bishtanuj/Machine_Learning_Algorithms?style=for-the-badge)](./STARS) &emsp;
 [![Forks](https://img.shields.io/github/forks/bishtanuj/Machine_Learning_Algorithms?style=for-the-badge)](./FORKS) &emsp;
-
+![Contributions](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&style=for-the-badge&color=green) 
 
 # Machine Learning
 Machine Learning is the field of study that concerned with the question that how to construct computer programs that automatically improves with experience. <br>
