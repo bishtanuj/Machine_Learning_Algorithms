@@ -9,4 +9,4 @@ Follow the contribution guildelines to contribute in this repository.
 
 - Take a look at exisiting [issues](https://github.com/bishtanuj/Machine_Learning_Algorithms/issues) or [create a new issue](https://github.com/bishtanuj/Machine_Learning_Algorithms/issues/new/choose)!
 - [Fork the repository](https://github.com/bishtanuj/Machine_Learning_Algorithms/fork). Then, create a branch for any issue that you are working on . Finally, commit your work.
-- Create a [pull request](https://github.com/bishtanuj/dataStructure/compare), which will be promptly reviewed and given suggestions for improvements by the community.
+- Create a [pull request](https://github.com/bishtanuj/Machine_Learning_Algorithms/compare), which will be promptly reviewed and given suggestions for improvements by the community.
