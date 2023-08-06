@@ -5,7 +5,7 @@
 
 It's great to see you here :partying_face:
 
-Follow the contribution guildelines to contribute in this repository:
+**Follow the contribution guildelines to contribute in this repository:**
 
 ___
 - Take a look at exisiting [issues](https://github.com/bishtanuj/Machine_Learning_Algorithms/issues) or [create a new issue](https://github.com/bishtanuj/Machine_Learning_Algorithms/issues/new/choose)!
