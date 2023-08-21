@@ -5,3 +5,6 @@ __*Build a predictive model so as to suggest the most suitable crops to grow bas
 
 #### Goal:
 __*Achieve precision farming by optimizing the agricultural production.*__
+
+#### This project is intended on precision farming:
+- We have to optimize productivity.
