@@ -4,4 +4,4 @@
 __*Build a predictive model so as to suggest the most suitable crops to grow based on available climatic and soil conditions.*__
 
 #### Goal:
-Achieve precision farming by optimizing the agricultural production.
+__*Achieve precision farming by optimizing the agricultural production.*__
