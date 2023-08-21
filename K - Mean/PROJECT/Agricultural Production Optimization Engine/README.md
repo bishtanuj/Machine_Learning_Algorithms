@@ -8,3 +8,4 @@ __*Achieve precision farming by optimizing the agricultural production.*__
 
 #### This project is intended on precision farming:
 - We have to optimize productivity.
+- By understanding requirements of climatic and soil conditions for crops.
