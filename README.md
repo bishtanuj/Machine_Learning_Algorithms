@@ -15,6 +15,6 @@ In present scenario, data is a lifeline of business. Everybody requires that the
 Machine Learning is made up of three parts:
 1. Computational Algorithm
 2. Variables and Features
-3. Knowkedge About Data
+3. Knowledge About Data
 
 ---
