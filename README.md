@@ -1,4 +1,4 @@
-[![Licence](https://img.shields.io/github/license/bishtanuj/Machine_Learning_Algorithms?style=for-the-badge)](./LICENSE) &emsp;
+a[![Licence](https://img.shields.io/github/license/bishtanuj/Machine_Learning_Algorithms?style=for-the-badge)](./LICENSE) &emsp;
 [![Issues](https://img.shields.io/github/issues/bishtanuj/Machine_Learning_Algorithms?style=for-the-badge)](./ISSUES) &emsp;
 [![Stars](https://img.shields.io/github/stars/bishtanuj/Machine_Learning_Algorithms?style=for-the-badge)](./STARS) &emsp;
 [![Forks](https://img.shields.io/github/forks/bishtanuj/Machine_Learning_Algorithms?style=for-the-badge)](./FORKS) &emsp;
@@ -15,6 +15,6 @@ In present scenario, data is a lifeline of business. Everybody requires that the
 Machine Learning is made up of three parts:
 1. Computational Algorithm
 2. Variables and Features
-3. Knowledge About Data
+3. Knowledge about Data
 
 ---
