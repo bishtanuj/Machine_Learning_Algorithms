@@ -33,3 +33,5 @@
 &emsp; - Center of newly formed clusters do not change. <br>
 &emsp; - Data points remain present in the same cluster. <br>
 &emsp; - Maximum number of iterations are reached. <br>
+
+---
