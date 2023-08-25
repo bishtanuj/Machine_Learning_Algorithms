@@ -1,4 +1,4 @@
-a[![Licence](https://img.shields.io/github/license/bishtanuj/Machine_Learning_Algorithms?style=for-the-badge)](./LICENSE) &emsp;
+[![Licence](https://img.shields.io/github/license/bishtanuj/Machine_Learning_Algorithms?style=for-the-badge)](./LICENSE) &emsp;
 [![Issues](https://img.shields.io/github/issues/bishtanuj/Machine_Learning_Algorithms?style=for-the-badge)](./ISSUES) &emsp;
 [![Stars](https://img.shields.io/github/stars/bishtanuj/Machine_Learning_Algorithms?style=for-the-badge)](./STARS) &emsp;
 [![Forks](https://img.shields.io/github/forks/bishtanuj/Machine_Learning_Algorithms?style=for-the-badge)](./FORKS) &emsp;
