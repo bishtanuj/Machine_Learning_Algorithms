@@ -45,3 +45,6 @@
 - As the name suggests, no hypothesis or trend can be used to suggest irregular or random movements in a time series.
 - These outcomes are unforeseen, erratic, unpredictable, and uncontrollable in nature.
 - Earthquakes, war, famine and floods are some examples.
+
+---
+
