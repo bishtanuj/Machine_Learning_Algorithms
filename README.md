@@ -4,7 +4,7 @@
 [![Forks](https://img.shields.io/github/forks/bishtanuj/Machine_Learning_Algorithms?style=for-the-badge)](./FORKS) &emsp;
 ![Contributions](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&style=for-the-badge&color=green) 
 
-# Machine Learning
+# *Machine Learning*
 Machine Learning is the field of study that concerned with the question that how to construct computer programs that automatically improves with experience. <br>
 Machine learning is an application of artificial intelligence where a computer/machine learns from the past experience and makes future predicitions. The performance of such system should be atleast human level.
 
