@@ -7,7 +7,7 @@
 &emsp; _k = number of clusters_ <br>
 &emsp; _t = number of iterations_ 
 
-## Steps of Algorithm
+## _Steps of Algorithm_
 ### Step 1: Choose the value of Hyperparameter (k)
 
 ### Step 2: Choose the cluster centres
