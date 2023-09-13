@@ -45,7 +45,7 @@
 #### _Linearly Separable Data:_
 _Data that can be separate with the equation of line._
 
-#### Non-linearly Separable Data:
+#### _Non-linearly Separable Data:_
 Data that cannot be separate with the equation of line.
 
 #### KERNEL:
