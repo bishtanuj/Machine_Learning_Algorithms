@@ -1,4 +1,4 @@
-# Support Vector Machine (SVM) Algorithm
+# _Support Vector Machine (SVM) Algorithm_
 * SVM is a orginally a binary classifiaction method that divides the given data into two groups in the best possibe way by using hyperplanes.
 * A support vector machine (SVM) is a discriminitive classifier formally defined by a separarting hyperplane.
 * In other words, given labeled training data (supervised learning), the algorithm outputs an optimal hyperplane which categorizes new examples.
