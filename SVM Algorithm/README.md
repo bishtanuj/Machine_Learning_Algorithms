@@ -41,7 +41,7 @@
 6. Difficult to interpret, and difficult to understand by human being unlike decision tree.
 
 
-## Some important keywords of SVM 
+## _Some important keywords of SVM_
 #### Linearly Separable Data:
 Data that can be separate with the equation of line.
 
