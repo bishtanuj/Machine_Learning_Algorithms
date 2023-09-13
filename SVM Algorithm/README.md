@@ -42,8 +42,8 @@
 
 
 ## _Some important keywords of SVM_
-#### Linearly Separable Data:
-Data that can be separate with the equation of line.
+#### _Linearly Separable Data:_
+_Data that can be separate with the equation of line._
 
 #### Non-linearly Separable Data:
 Data that cannot be separate with the equation of line.
