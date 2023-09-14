@@ -1,4 +1,4 @@
-# Time Series Analysis
+# _Time Series Analysis_
 
 * A time series analysis is a stream of quantitive values obtained at successive time intervals.
 * Time series analysis is a statistical method to analyze the past data within a given duration of time to forecast the future. It comprises of ordered sequence of data at equally spaced interval.
