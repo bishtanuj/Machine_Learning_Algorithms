@@ -5,7 +5,7 @@
 * Time series are very frequntly plotted via line charts, which can either be univariate or multivariate, as well as linear or non-linear in nature.
 
 
-## Component of Time Series Analysis
+## _Component of Time Series Analysis_
 * The reasons or forces that change the attributes of a time series are known as the components of time series.
 * The following are the components of time series - <br>
 &emsp; 1. Trend <br>
