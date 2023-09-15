@@ -12,7 +12,7 @@ There are following types of decision tree algorithms:
 * Little to no data preparation required
 * More Flexible
 
-## Disadvantages of Decision Tree
+## _Disadvantages of Decision Tree_
 * Prone to overfitting
 * High variance estimators
 * More Costly
