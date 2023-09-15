@@ -1,4 +1,4 @@
-# DECISION TREE
+# _DECISION TREE_
 A decision tree is a non-parametric supervised learning algorithm, which is utilized for both classification and regression tasks. It has a hierarchical, tree structure, which consisits of a root node, branches, internal nodes and leaf nodes.
 
 ## Types of Decision Tree
