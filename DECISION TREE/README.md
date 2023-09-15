@@ -7,7 +7,7 @@ There are following types of decision tree algorithms:
 2. **C4.5:** This algorithm is considered a later iteration of ID3, which was developed by Quinlan. It can use information gain or gain ratios to evaluate split points within the decision trees.
 3. **CART:** Stands for "Classification and Regreesion Tree" and was introduced by Leo Breiman. This algorithm typically utilizes Gini impurity to identify the ideal attribute to split on. Gini impurity measures how often a randomly chosen attribute is misclassified. When evaluating using Gini impurity, a lower value is more ideal.
 
-## Advantages of Decision Tree
+## _Advantages of Decision Tree_
 * Easy to interpret
 * Little to no data preparation required
 * More Flexible
