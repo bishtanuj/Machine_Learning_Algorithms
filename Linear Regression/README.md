@@ -35,3 +35,5 @@ _**Linear Regression** computes the linear relationship between a **dependent va
 - **Economics**: Modelling supply-demand relationships.
 - **Social Sciences**: Studying factors affecting human behavior.
 - **Engineering**: Predicting performance based on parameters.
+
+Remember, linear regression is like drawing a straight line through data points, summarizing relationships, and making predictions.
