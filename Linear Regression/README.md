@@ -11,4 +11,9 @@ _**Linear Regression** computes the linear relationship between a **dependent va
 ### Why is Linear Regression Important?
 - **Interpretability**: Linear regression provides clear coefficients, helping us understand the impact of each independent variable on the dependent variable.
 - **Simplicity**: It's transparent, easy to implement, and serves as a foundation for more complex algorithms.
-- **Foundational Concepts**: Linear regression underpins advanced models ike regularization and support vector machines. 
+- **Foundational Concepts**: Linear regression underpins advanced models ike regularization and support vector machines.
+
+### Assumptions of Linear Regression
+1. **Linearity**: The relationship between variables is linear.
+2. **Independence**: Residual (differences between actual and predicted values) are independent.
+3. **Homoscendasticity**: Residuals follow a normal distribution.
