@@ -18,3 +18,8 @@ _**Linear Regression** computes the linear relationship between a **dependent va
 2. **Independence**: Residual (differences between actual and predicted values) are independent.
 3. **Homoscendasticity**: Residuals follow a normal distribution.
 4. **Normality**: Residuals follow a normal distribution.
+
+### How Does Linear Regression Work?
+1. **Best Fit Line**: Linear regression finds the line that best fits the data points. This line represents the relationship between the features and the target variables.
+2. **Cost Function**: The algorithm minimizes the difference between predicted and actual values using a cost function (often mean squared error).
+3. **Gradient Descent**: Optimization technique to adjust model parameters (coefficients) iteratively.
