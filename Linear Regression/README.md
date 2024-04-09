@@ -17,3 +17,4 @@ _**Linear Regression** computes the linear relationship between a **dependent va
 1. **Linearity**: The relationship between variables is linear.
 2. **Independence**: Residual (differences between actual and predicted values) are independent.
 3. **Homoscendasticity**: Residuals follow a normal distribution.
+4. **Normality**: Residuals follow a normal distribution.
