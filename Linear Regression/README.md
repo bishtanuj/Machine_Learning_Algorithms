@@ -23,3 +23,9 @@ _**Linear Regression** computes the linear relationship between a **dependent va
 1. **Best Fit Line**: Linear regression finds the line that best fits the data points. This line represents the relationship between the features and the target variables.
 2. **Cost Function**: The algorithm minimizes the difference between predicted and actual values using a cost function (often mean squared error).
 3. **Gradient Descent**: Optimization technique to adjust model parameters (coefficients) iteratively.
+
+### Evaluation Metrics for Linear Regression
+- **Mean Absolute Error (MAE)**: Average absolute difference between predicted and actual values.
+- **Mean Sqaured Error (MSE)**: Average squared difference.
+- **Root Mean Squared Error (RMSE)**: Sqaure root of MSE.
+- **R - squared ($R^2$)**:
