@@ -5,3 +5,7 @@ _**Linear Regression** computes the linear relationship between a **dependent va
 ### Types of Linear Regression:
 1. **Simple Linear Regression**: When there's only one independent feature.
 2. **Multiple Linear Regression**: Involves more than one feature.
+3. **Univariate Linear Regression**: With a single dependent variable.
+4. **Multivariate Regression**: With multiple dependent variables.
+
+
