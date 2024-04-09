@@ -29,3 +29,9 @@ _**Linear Regression** computes the linear relationship between a **dependent va
 - **Mean Sqaured Error (MSE)**: Average squared difference.
 - **Root Mean Squared Error (RMSE)**: Sqaure root of MSE.
 - **R - squared $(R^2)$**: Measures how well the model explains the variance in the data.
+
+### Applications of Linear Regression
+- **Predictive Analysis**: Forecasting sales, stock prices, etc.
+- **Economics**: Modelling supply-demand relationships.
+- **Social Sciences**: Studying factors affecting human behavior.
+- **Engineering**: Predicting performance based on parameters.
