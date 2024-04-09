@@ -28,4 +28,4 @@ _**Linear Regression** computes the linear relationship between a **dependent va
 - **Mean Absolute Error (MAE)**: Average absolute difference between predicted and actual values.
 - **Mean Sqaured Error (MSE)**: Average squared difference.
 - **Root Mean Squared Error (RMSE)**: Sqaure root of MSE.
-- **R - squared $(R^2)$**:
+- **R - squared $(R^2)$**: Measures how well the model explains the variance in the data.
