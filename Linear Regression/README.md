@@ -1,1 +1,3 @@
 # _Linear Regression_
+
+_**Linear Regression** computes the linear relationship between a **dependent variable** (also known as the response or target variable) and one or more **independent features** (also called explanatory or predictor variables)._
