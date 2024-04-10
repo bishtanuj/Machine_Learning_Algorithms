@@ -24,3 +24,5 @@ _**Logistic regression** analyzes the relationship between independent features 
 ### Applications of Logistic Regression
 - **Spam Detection**: Identifying spam emails.
 - **Medical Diagnosis**: Predicting disease presence.
+- **Credit Risk Assessment**: Determining creditworthiness.
+- **Market Segemntation**: Categorizing customers.
