@@ -27,4 +27,4 @@ _**Logistic regression** analyzes the relationship between independent features 
 - **Credit Risk Assessment**: Determining creditworthiness.
 - **Market Segemntation**: Categorizing customers.
 
-_Remeber, logistic regression bridges the gap between linear regression and classification, making it a versatile tool in the data scientist's toolbox!_
+> _Remeber, logistic regression bridges the gap between linear regression and classification, making it a versatile tool in the data scientist's toolbox!_
