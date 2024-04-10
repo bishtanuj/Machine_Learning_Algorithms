@@ -18,3 +18,5 @@ _**Logistic regression** analyzes the relationship between independent features 
     - Ensures predictions stay within valid bounds.
     - Threshold (usually 0.5) determines class assignment.
 2. **Cost Function**:
+    - Measures the difference between predicted and actual values.
+    - Maximizes likelihood or minimizes log loss.
