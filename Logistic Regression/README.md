@@ -20,3 +20,7 @@ _**Logistic regression** analyzes the relationship between independent features 
 2. **Cost Function**:
     - Measures the difference between predicted and actual values.
     - Maximizes likelihood or minimizes log loss.
+  
+### Applications of Logistic Regression
+- **Spam Detection**: Identifying spam emails.
+- **Medical Diagnosis**: Predicting disease presence.
