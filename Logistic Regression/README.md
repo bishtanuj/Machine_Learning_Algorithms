@@ -6,3 +6,8 @@ _**Logistic regression** analyzes the relationship between independent features 
 - **Binomial**: For binary outcomes (e.g., pass/fail, spam/not spam).
 - **Multinomial**: For more than two unordered classess (e.g., animal types: cat, dog, sheep).
 - **Ordinal**: For ordered classes (e.g., low, medium, high).
+
+### Why Is Logistic Regression Important?
+- **Probability Estimation**: It provides probabilities rather than exact class labels.
+- **Interpretability**: Coefficients reveal the impact of each feature on the probability.
+- **Foundation for Classification**: Logistics regression serves as a building block for more complex classifiers.
