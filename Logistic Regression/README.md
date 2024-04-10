@@ -4,3 +4,5 @@ _**Logistic regression** analyzes the relationship between independent features 
 
 ### Types of Logistic Regression
 - **Binomial**: For binary outcomes (e.g., pass/fail, spam/not spam).
+- **Multinomial**: For more than two unordered classess (e.g., animal types: cat, dog, sheep).
+- **Ordinal**: For ordered classes (e.g., low, medium, high).
