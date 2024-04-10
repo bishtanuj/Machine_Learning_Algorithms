@@ -11,3 +11,10 @@ _**Logistic regression** analyzes the relationship between independent features 
 - **Probability Estimation**: It provides probabilities rather than exact class labels.
 - **Interpretability**: Coefficients reveal the impact of each feature on the probability.
 - **Foundation for Classification**: Logistics regression serves as a building block for more complex classifiers.
+
+### How Does Logistic Regression Work?
+1. **Sigmoid Function (Logistic Function)**:
+    - Maps real values to probabilities between 0 and 1.
+    - Ensures predictions stay within valid bounds.
+    - Threshold (usually 0.5) determines class assignment.
+2. **Cost Function**:
