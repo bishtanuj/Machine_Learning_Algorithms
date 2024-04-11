@@ -7,3 +7,6 @@ _Random forest is a colleborative team of decision trees that work together to p
 - Each tree is constructed using random subset of the dataset and a random subset of features.
 - This randomness introduces variability among individual trees, reducing overfitting and improving prediction performance.
 - In prediction, the algorithm aggregates results from all trees (voting for classification tasks or averaging for regression tasks).
+
+### Why Random Forest?
+- **Robustness**: Handles complex data, noisy features, and outliers effectively.
