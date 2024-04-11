@@ -15,3 +15,10 @@ _Random forest is a colleborative team of decision trees that work together to p
 
 ## Ensemble Learning Models
 Ensemeble learning models work like a group of diverse experts teaming up to make decisions. Imagine a group of friends with different strengths tackling a problem together. Similarly, ensemble models combine different models (often of the same type or different types) to enhance predictive performance.
+
+Some popular ensemble models include:
+- **XGBoost**: A gradient boosting algorithm.
+- **AdaBoost**: Sequentially trains models to correct errors made by previous nes.
+- **LightGBM**: A gradient boosting framework.
+- **Random Forest**: Combines multiple decision trees.
+- **Bagging**: Trains weak models on different subsets of data.
