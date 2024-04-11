@@ -26,3 +26,8 @@ Some popular ensemble models include:
 ### Random Forest vs. Decision Trees
 - **Random Forest**: An ensemble of decision trees.
 - **Decision Trees**: Individual trees that can overfit and lack generalization.
+
+### Applications of Random Forest
+- **Classification**: Identifying spam emails, diagnosing diseases, and more.
+- **Regression**: Predicting house prices, stock returns, etc.
+- **Feature Importance**: Determining which features contribute most to predictions.
