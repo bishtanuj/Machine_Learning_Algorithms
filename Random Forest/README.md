@@ -22,3 +22,7 @@ Some popular ensemble models include:
 - **LightGBM**: A gradient boosting framework.
 - **Random Forest**: Combines multiple decision trees.
 - **Bagging**: Trains weak models on different subsets of data.
+
+### Random Forest vs. Decision Trees
+- **Random Forest**: An ensemble of decision trees.
+- **Decision Trees**: Individual trees that can overfit and lack generalization.
