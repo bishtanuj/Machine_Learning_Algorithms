@@ -10,3 +10,5 @@ _Random forest is a colleborative team of decision trees that work together to p
 
 ### Why Random Forest?
 - **Robustness**: Handles complex data, noisy features, and outliers effectively.
+- **Overfitting Reduction**: Combining diverse trees reduces the risk of overfitting.
+- **Reliable Predictions**: Provides stable and precise results across different environments.
