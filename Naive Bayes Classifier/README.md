@@ -8,4 +8,5 @@ _Naive Bayes classifiers are a collection of classification algorithms based on 
 - Despite this simplification, Naive Bayes remains practical and effective.
 
 ## Applications
-- *Text Classification*
+- **Text Classification**: Naive Bayes is highly used in tasks like spam filtering, sentiment detection, and rating classification.
+- **Speed and Prediction**: Its advantage lies in speed and ease of prediction, especially with high-dimensional data.
