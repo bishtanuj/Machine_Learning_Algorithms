@@ -21,4 +21,4 @@ _**Principal Copmonent Analysis (PCA)** is a linear dimensionality reduction tec
 - The first principal component captures the most variance.
 - Subsequent components explain additional variance.
 
-> _Remember, PCA simplifies copmlex data while preserving essential information, making it a valuable tool in data analysis!_
+> _Remember, PCA simplifies complex data while preserving essential information, making it a valuable tool in data analysis!_
