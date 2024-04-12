@@ -1,1 +1,1 @@
-# _Principal Component Amalysis (PCA)_
+# _Principal Component Analysis (PCA)_
