@@ -7,7 +7,7 @@ _**Principal Copmonent Analysis (PCA)** is a linear dimensionality reduction tec
 - The principal component are **orthogonal axes** that maximize the variance in the projected data.
 - It's commonly used when variables are highly correlated, aiming to reduce their number while preserving information.
 
-## Working
+### Working
 - The **first principal component** explains the most variance in the data.
 - Subsequent components explain the remaining variance after removing the effect of the previous components.
 - Iteratively, we find orthogonal directions that capture the most information.
