@@ -12,3 +12,6 @@ _Naive Bayes classifiers are a collection of classification algorithms based on 
 - **Speed and Prediction**: Its advantage lies in speed and ease of prediction, especially with high-dimensional data.
 
 ### Probabilistic Classifier
+- Naive Bayes predicts the **probability** of an instance belonging to a class given a set of feature values.
+- It assumes that one feature in the model is **independent** of the existence of another feature.
+- Each feature contributes to predictions without any relation to other features.
