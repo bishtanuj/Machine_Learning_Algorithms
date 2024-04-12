@@ -7,6 +7,8 @@ _Naive Bayes classifiers are a collection of classification algorithms based on 
 - It assumes that the features used to describe an observation are **conditionally independent**, given the class label.
 - Despite this simplification, Naive Bayes remains practical and effective.
 
-## Applications
+### Applications
 - **Text Classification**: Naive Bayes is highly used in tasks like spam filtering, sentiment detection, and rating classification.
 - **Speed and Prediction**: Its advantage lies in speed and ease of prediction, especially with high-dimensional data.
+
+### Probabilistic Classifier
