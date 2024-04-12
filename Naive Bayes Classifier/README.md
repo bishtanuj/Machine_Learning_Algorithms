@@ -6,3 +6,6 @@ _Naive Bayes classifiers are a collection of classification algorithms based on 
 - The "naive" part of the name indicates the simplifying assumptions made by the Naive Bayes classifier.
 - It assumes that the features used to describe an observation are **conditionally independent**, given the class label.
 - Despite this simplification, Naive Bayes remains practical and effective.
+
+## Applications
+- *Text Classification*
