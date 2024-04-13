@@ -10,3 +10,8 @@ _**Apriori Algorithm** is a classic data mining technique primarily used for **a
 ### Apriori Property
 - All non-empty subsets of a frequent itemset must also be frequent.
 - This property helps reduce the search space during level-wise generation of frequent itemsets.
+
+### Algorithm Steps
+- **Step 1 (K = 1)**:
+    - Create a table containing the **support count** of each item (called C1, the candidate set).
+    - Compare the support count of candidate set items with the **minimum support count** (min_support). Remove items with support counts below min_support to obtain itemset L1.
