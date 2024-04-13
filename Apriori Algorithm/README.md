@@ -16,4 +16,4 @@ _**Apriori Algorithm** is a classic data mining technique primarily used for **a
         - Create a table containing the **support count** of each item (called C1, the candidate set).
         - Compare the support count of candidate set items with the **minimum support count** (min_support). Remove items with support counts below min_support to obtain itemset L1.
 - **Step 2 (K = 2)**:
-        - Generate candidate set C2 using L1 (join step).
+Generate candidate set C2 using L1 (join step).
