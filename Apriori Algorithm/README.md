@@ -24,4 +24,9 @@ _**Apriori Algorithm** is a classic data mining technique primarily used for **a
     - Generate candidate set C3 using L2 (join step).
     - Check if all subsets of these itemsets are frequent. Remove non-frequent itemsets.
     - Find all support count of the remaining itemsets.
-    - Compare the candidate (C3) support count with min_support to obtain itemset L3 and so on. 
+    - Compare the candidate (C3) support count with min_support to obtain itemset L3 and so on.
+ 
+### Applications
+- **Market Basket Analysis**: Identifying associations between products purchased together.
+- **Recommendation System**: Suggesting related items based on user behavior.
+- **Web Usage Mining**: Analyzing user navigation patterns.
