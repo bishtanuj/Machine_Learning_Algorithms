@@ -20,3 +20,8 @@ _**Apriori Algorithm** is a classic data mining technique primarily used for **a
     - Check if all the subsets of an itemset are frequent. Remove itemsets with non-frequent subsets.
     - Find the support count of the remaining itemsets by searching in the dataset.
     - Compare the candidate (C2) support count with min_support to obtain itemset L2.
+- **Step 3 (K = 3 and beyond)**:
+    - Generate candidate set C3 using L2 (join step).
+    - Check if all subsets of these itemsets are frequent. Remove non-frequent itemsets.
+    - Find all support count of the remaining itemsets.
+    - Compare the candidate (C3) support count with min_support to obtain itemset L3 and so on. 
