@@ -66,3 +66,11 @@ _Choosing the **minimum support threshold** in the Apriori algorithm is crucial 
     2. **Lower Minimum Support**:
         - **Pros**:
             - Captures more frequent itemsets, including rare patterns.
+            - Increases the chances of finding interesting rules.
+        - **Cons**:
+            - Slower execution due to larger search space.
+            - May lead to more noise (less significant rules).  
+    3. **Data-Dependent Impact**:
+        - The optimal minimum support depends on your specific dataset.
+        - Some datasets require very low thresholds (e.g., $0.0002$), while others work well with higher values (e.g., $0.9$).
+        - Experimentation and domain knowledge play a crucial role in setting an appropriate threshold.
