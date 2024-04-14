@@ -40,3 +40,9 @@ _Choosing the **minimum support threshold** in the Apriori algorithm is crucial 
     - The minimum support represents the **minimum occurrence frequency** required for an itemset to be considered frequent.
     - It's expressed as a **percentage** or an **absolute count** of transactions.
     - Frequent itemsets are those that meet or exceed this minimum support.
+2. **Steps to Choose the Minimum Support Threshold**:
+    - **Percentage-Based Approach**:
+        - If you're given a percentage (e.g., 60%), follow these steps:
+            1. Determine the total number of transactions in your dataset.
+      
+      
