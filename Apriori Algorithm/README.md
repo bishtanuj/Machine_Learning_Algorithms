@@ -32,3 +32,5 @@ _**Apriori Algorithm** is a classic data mining technique primarily used for **a
 - **Web Usage Mining**: Analyzing user navigation patterns.
 
 > _Remember, the Apriori algorithm helps uncover hidden patterns and associations in data, making it a valuable tool for decision-making!_
+
+### Choosing the minimum support threshold in the Apriori algorithm is crucial for discovering frequent itemsets.
