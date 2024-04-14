@@ -35,3 +35,8 @@ _**Apriori Algorithm** is a classic data mining technique primarily used for **a
 
 ### Minimum Support Threshold
 _Choosing the **minimum support threshold** in the Apriori algorithm is crucial for discovering frequent itemsets. Let's break it down:_
+
+1. **Understanding Minimum Support**:
+    - The minimum support represents the **minimum occurrence frequency** required for an itemset to be considered frequent.
+    - It's expressed as a **percentage** or an **absolute count** of transactions.
+    - Frequent itemsets are those that meet or exceed this minimum support.
