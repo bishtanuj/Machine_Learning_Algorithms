@@ -77,4 +77,7 @@ _Choosing the **minimum support threshold** in the Apriori algorithm is crucial 
     4. **Adaptive Thresholds**:
         - Traditional Apriori cannot use adaptive thresholds because it requires the same threshold for all itemset sizes.
         - Variations like **CFP-Growth** or **MIS-Apriori** consider multiple minimum support simultaneously for different items.
-        - These specialized algorithms handle rare itemsets or rules effectively. 
+        - These specialized algorithms handle rare itemsets or rules effectively.
+    5. **Balancing Act**:
+        - Finding the right balance between pruning and capturing meaningful patterns is challenging.
+        - Adjust the minimum support based on your goal (e.g., comprehensiveness vs. efficiency).
