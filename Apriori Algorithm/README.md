@@ -50,5 +50,7 @@ _Choosing the **minimum support threshold** in the Apriori algorithm is crucial 
     - **Absolute Count Approach**:
         - If you're given an absolute count (e.g., $3$), directly use that count as the minimum support.
         - Ensure that the count is reasonable and not too low (to avoid excessive copmutation) or too high (to capture meaningful patterns).  
-3. Practical Considerations:
-      
+3. **Practical Considerations**:
+    - **Domain Knowledge**: Consider the context of your problem. What level of support makes sense for your specific application?
+    - **Experimentation**: Try different thresholds and observe the impact on the number of frequent itemsets.
+    - **Trade-Offs**: A higher support threshold yields fewer but more significant rules, while a lower threshold captures more rules (including noise).      
