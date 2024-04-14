@@ -53,4 +53,13 @@ _Choosing the **minimum support threshold** in the Apriori algorithm is crucial 
 3. **Practical Considerations**:
     - **Domain Knowledge**: Consider the context of your problem. What level of support makes sense for your specific application?
     - **Experimentation**: Try different thresholds and observe the impact on the number of frequent itemsets.
-    - **Trade-Offs**: A higher support threshold yields fewer but more significant rules, while a lower threshold captures more rules (including noise).      
+    - **Trade-Offs**: A higher support threshold yields fewer but more significant rules, while a lower threshold captures more rules (including noise).
+4. **Influence of altering the threshold on the outcomes**:
+    1. **Higher Minimum Support**:
+        - **Pros**:
+            - Fewer frequent itemsets are discovered.
+            - The algorithm runs faster due to reduced search space.
+            - Rules generated tend to be more significant and reliable.
+        - **Cons**:
+            - May miss some interesting but less frequent patterns.
+            - Pruning may remove potentially valuable associations.
