@@ -74,3 +74,7 @@ _Choosing the **minimum support threshold** in the Apriori algorithm is crucial 
         - The optimal minimum support depends on your specific dataset.
         - Some datasets require very low thresholds (e.g., $0.0002$), while others work well with higher values (e.g., $0.9$).
         - Experimentation and domain knowledge play a crucial role in setting an appropriate threshold.
+    4. **Adaptive Thresholds**:
+        - Traditional Apriori cannot use adaptive thresholds because it requires the same threshold for all itemset sizes.
+        - Variations like **CFP-Growth** or **MIS-Apriori** consider multiple minimum support simultaneously for different items.
+        - These specialized algorithms handle rare itemsets or rules effectively. 
