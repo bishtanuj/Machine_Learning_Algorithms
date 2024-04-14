@@ -42,7 +42,7 @@ _Choosing the **minimum support threshold** in the Apriori algorithm is crucial 
     - Frequent itemsets are those that meet or exceed this minimum support.
 2. **Steps to Choose the Minimum Support Threshold**:
     - **Percentage-Based Approach**:
-        - If you're given a percentage (e.g., $60%$), follow these steps:
+        - If you're given a percentage (e.g., 60%), follow these steps:
             1. Determine the total number of transactions in your dataset.
             2. Calculate the minimum support count by multiplying the percentage by the total number of transactions.
             3. For example, if you have 10 transactions and the minimum support is $60%$, the minimum support count would be $10 * 60$% $= 6$.
