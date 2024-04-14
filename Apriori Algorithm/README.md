@@ -62,4 +62,7 @@ _Choosing the **minimum support threshold** in the Apriori algorithm is crucial 
             - Rules generated tend to be more significant and reliable.
         - **Cons**:
             - May miss some interesting but less frequent patterns.
-            - Pruning may remove potentially valuable associations.
+            - Pruning may remove potentially valuable associations.  
+    2. **Lower Minimum Support**:
+        - **Pros**:
+            - Captures more frequent itemsets, including rare patterns.
