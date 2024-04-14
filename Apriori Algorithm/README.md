@@ -48,5 +48,7 @@ _Choosing the **minimum support threshold** in the Apriori algorithm is crucial 
             3. For example, if you have 10 transactions and the minimum support is $60$%, the minimum support count would be $10 * 60$% $= 6$.
         - Always round up the result to the nearest integer (e.g., $3.5$ becomes $4$).
     - **Absolute Count Approach**:
-      
+        - If you're given an absolute count (e.g., $3$), directly use that count as the minimum support.
+        - Ensure that the count is reasonable and not too low (to avoid excessive copmutation) or too high (to capture meaningful patterns).  
+3. Practical Considerations:
       
