@@ -13,8 +13,8 @@ In present scenario, data is a lifeline of business. Everybody requires that the
 
 ## How does Machine Learning Works?
 _Machine Learning is made up of three parts:_
-1. Computational Algorithm
-2. Variables and Features
-3. Knowledge about Data
+1. **Computational Algorithm**
+2. **Variables and Features**
+3. **Knowledge about Data**
 
 ---
