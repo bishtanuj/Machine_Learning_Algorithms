@@ -12,7 +12,7 @@ Machine learning is an application of artificial intelligence where a computer/m
 In present scenario, data is a lifeline of business. Everybody requires that the solution of any problem should be precise and comes out quickly with the blink of eyes and also have capability to value customer's prespective such that the product becomes huge success, and helps the business to grow in the competitive market with cut-throat competition. Here is where Machine Learning becomes assets.
 
 ## How does Machine Learning Works?
-Machine Learning is made up of three parts:
+_Machine Learning is made up of three parts:_
 1. Computational Algorithm
 2. Variables and Features
 3. Knowledge about Data
