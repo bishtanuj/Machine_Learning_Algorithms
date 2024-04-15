@@ -9,7 +9,7 @@
 Machine learning is an application of artificial intelligence where a computer/machine learns from the past experience and makes future predicitions. The performance of such system should be atleast human level.*
 
 ## _Why Machine Learning?_
-In present scenario, data is a lifeline of business. Everybody requires that the solution of any problem should be precise and comes out quickly with the blink of eyes and also have capability to value customer's prespective such that the product becomes huge success, and helps the business to grow in the competitive market with cut-throat competition. Here is where Machine Learning becomes assets.
+_In present scenario, data is a lifeline of business. Everybody requires that the solution of any problem should be precise and comes out quickly with the blink of eyes and also have capability to value customer's prespective such that the product becomes huge success, and helps the business to grow in the competitive market with cut-throat competition. Here is where Machine Learning becomes assets._
 
 ## How does Machine Learning Works?
 _Machine Learning is made up of three parts:_
