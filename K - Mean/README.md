@@ -30,8 +30,8 @@
 
 ### Step 6:
 - Keep repeating the procedure from Step 3 to Step 5 until any of the following stopping criteria met: <br>
-&emsp; - Center of newly formed clusters do not change. <br>
-&emsp; - Data points remain present in the same cluster. <br>
-&emsp; - Maximum number of iterations are reached. <br>
+    - Center of newly formed clusters do not change.
+    - Data points remain present in the same cluster.
+    - Maximum number of iterations are reached.
 
 ---
