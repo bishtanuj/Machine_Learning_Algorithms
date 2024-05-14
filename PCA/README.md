@@ -17,7 +17,7 @@ _**Principal Copmonent Analysis (PCA)** is a linear dimensionality reduction tec
 - **Data Preprocessing**: Reducing noise and redundancy.
 - **Visualization**: Plotting data in 2D and 3D using the first few principal components.
 
-### Interpretaion:
+### Interpretation:
 - The first principal component captures the most variance.
 - Subsequent components explain additional variance.
 
