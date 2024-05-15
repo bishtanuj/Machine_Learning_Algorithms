@@ -10,3 +10,11 @@
 ### Membership Function
 - The fundamental concept in Fuzzy Logic is the **membership function**. It defines the degree of membership of an input value to a certain set or category.
 - The membership function maps an input value to a membership degree between 0 and 1, where 0 represents non-membership and 1 represents full membership.
+
+### Fuzzy Rules and Architecture
+- Fuzzy Logic is implemented using **Fuzzy Rules**, which are if-then statements expressing relationships between input and output variables in a fuzzy way.
+- The architecture includes four parts:
+    - **Rule Base**: Contains the set of rules based on linguistic information provided by experts.
+    - **Fuzzification**: Converts crisp inputs (exact measurements from sensors) into fuzzy sets.
+    - **Inference Engine**: Applies fuzzy rules to make decisions.
+    - **Defuzzification**: Converts fuzzy output into crisp values.
