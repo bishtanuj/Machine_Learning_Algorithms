@@ -33,3 +33,6 @@
 - Widely applicable across domains.
 
 ### Disadvantages
+- Complexity in rule design.
+- Computationally intensive.
+- Interpretability challenges.
