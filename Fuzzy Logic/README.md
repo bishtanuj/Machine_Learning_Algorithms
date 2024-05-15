@@ -37,4 +37,4 @@
 - Computationally intensive.
 - Interpretability challenges.
 
-_Fuzzy Logic provides a powerful way to handle uncertainity and vagueness, making it a valuable tool in various real-world scenarios._
+> _Fuzzy Logic provides a powerful way to handle uncertainity and vagueness, making it a valuable tool in various real-world scenarios._
