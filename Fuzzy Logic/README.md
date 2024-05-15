@@ -22,3 +22,7 @@
 ### Applications
 - _Fuzzy Logic finds applications in various fields:_
     - **Control Systems**: Used for adaptive control, robotics, and process control.
+    - **Image Processing**: Enhances image quality and feature extraction.
+    - **Natural Language Processing**: Helps handle linguistic ambiguity.
+    - **Medical Diagnosis**: Deals with uncertain medical data.
+    - **Artificial Intelligence**: Enhances reasoning under uncertainity.
