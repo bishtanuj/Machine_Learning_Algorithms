@@ -6,3 +6,7 @@
 - _**Fuzzy Logic** is a form of many-valued logic where the truth values of variables can be any real number between 0 and 1, rather than just the traditional true or false values._
 - _It deals with situations where we can't definitively determine whether a state is true or false, allowing for shades of gray in between._
 - _Fuzzy Logic is used to represent vagueness and uncertainity in decision-making._
+
+### Membership Function
+- The fundamental concept in Fuzzy Logic is the **membership function**. It defines the degree of membership of an input value to a certain set or category.
+- The membership function maps an input value to a membership degree between 0 and 1, where 0 represents non-membership and 1 represents full membership.
