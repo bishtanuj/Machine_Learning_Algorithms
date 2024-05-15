@@ -4,3 +4,4 @@
 
 ### Definition and Purpose
 - _**Fuzzy Logic** is a form of many-valued logic where the truth values of variables can be any real number between 0 and 1, rather than just the traditional true or false values._
+- _It deals with situations where we can't definitively determine whether a state is true or false, allowing for shades of gray in between._
