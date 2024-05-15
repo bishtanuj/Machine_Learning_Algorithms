@@ -18,3 +18,7 @@
     - **Fuzzification**: Converts crisp inputs (exact measurements from sensors) into fuzzy sets.
     - **Inference Engine**: Applies fuzzy rules to make decisions.
     - **Defuzzification**: Converts fuzzy output into crisp values.
+ 
+### Applications
+- _Fuzzy Logic finds applications in various fields:_
+    - **Control Systems**: Used for adaptive control, robotics, and process control.
