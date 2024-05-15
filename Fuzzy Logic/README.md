@@ -26,3 +26,10 @@
     - **Natural Language Processing**: Helps handle linguistic ambiguity.
     - **Medical Diagnosis**: Deals with uncertain medical data.
     - **Artificial Intelligence**: Enhances reasoning under uncertainity.
+ 
+### Advantages
+- Flexibility in handling imprecise data.
+- Allows for partial truths.
+- Widely applicable across domains.
+
+### Disadvantages
