@@ -55,4 +55,14 @@ _Let's dive into an example of how fuzzy logic can be applied. Imagine we're des
             - Cold: T is low.
             - Comfortable: T is moderate.
             - Hot: T is high.
+         
+        - **Cooling Power (CP)**:
+            - Weak: CP is low.
+            - Moderate: CP is moderate.
+            - Strong: CP is high.
+         
+        - **Fan Speed (FS)**:
+            - Slow: FS is low.
+            - Medium: FS is moderate.
+            - Fast: FS is high.
       
