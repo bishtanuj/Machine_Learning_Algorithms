@@ -38,3 +38,6 @@
 - Interpretability challenges.
 
 > _Fuzzy Logic provides a powerful way to handle uncertainity and vagueness, making it a valuable tool in various real-world scenarios._
+
+### Example
+_Let's dive into an example of how fuzzy logic can be applied. Imagine we're designing a simple temperature control system for an air conditioner._
