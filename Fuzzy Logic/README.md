@@ -65,4 +65,9 @@ _Let's dive into an example of how fuzzy logic can be applied. Imagine we're des
             - Slow: FS is low.
             - Medium: FS is moderate.
             - Fast: FS is high.
-      
+         
+3. **Fuzzy Rules**
+    - We create rules based on expert knowledge:
+        - If T is _Cold_ or CP is _Weak_, then FS is _SLow_.
+        - If T is _Comfortable_ and CP is _Moderate_, then FS is _Medium_.
+        - If T is _Hot_ or CP is _Strong_, then FS is _Fast_.      
