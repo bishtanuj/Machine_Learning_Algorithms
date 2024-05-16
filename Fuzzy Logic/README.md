@@ -74,4 +74,5 @@ _Let's dive into an example of how fuzzy logic can be applied. Imagine we're des
      
 4. **Fuzzification**
     - Given the current temperature (e.g., T = 25&deg;C) and cooling power (e.g., CP = 0.7), we determine their membership degrees in the fuzzy sets.
-    - For T = 25&deg;C: Cold = 0, Comfortable = 0.5, Hot = 0.5. 
+    - For T = 25&deg;C: Cold = 0, Comfortable = 0.5, Hot = 0.5.
+    - For CP = 0.7: Weak = 0, Moderate = 0.7, Strong = 0.3.
