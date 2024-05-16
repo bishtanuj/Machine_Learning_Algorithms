@@ -52,19 +52,19 @@ _Let's dive into an example of how fuzzy logic can be applied. Imagine we're des
 2. **Fuzzy Sets**
     - We define fuzzy sets for each input and output variable:
         - **Temperature (T)**:
-            - Cold: T is low.
-            - Comfortable: T is moderate.
-            - Hot: T is high.
+            - _Cold_: T is low.
+            - _Comfortable_: T is moderate.
+            - _Hot_: T is high.
          
         - **Cooling Power (CP)**:
-            - Weak: CP is low.
-            - Moderate: CP is moderate.
-            - Strong: CP is high.
+            - _Weak_: CP is low.
+            - _Moderate_: CP is moderate.
+            - _Strong_: CP is high.
          
         - **Fan Speed (FS)**:
-            - Slow: FS is low.
-            - Medium: FS is moderate.
-            - Fast: FS is high.
+            - _Slow_: FS is low.
+            - _Medium_: FS is moderate.
+            - _Fast_: FS is high.
          
 3. **Fuzzy Rules**
     - We create rules based on expert knowledge:
