@@ -79,9 +79,9 @@ _Let's dive into an example of how fuzzy logic can be applied. Imagine we're des
   
 5. **Interface Engine**
     - Apply the fuzzy rules:
-        - Rule 1: FS = Slow (because T is Comfortable).
-        - Rule 2: FS = Medium (because T is Comfortable and CP is Moderate).
-        - Rule 3: FS = Fast (because CP is strong).
+        - **Rule 1**: FS = Slow (because T is Comfortable).
+        - **Rule 2**: FS = Medium (because T is Comfortable and CP is Moderate).
+        - **Rule 3**: FS = Fast (because CP is strong).
      
     - Combine the results using the maximum operator:
         - FS = max(Slow, Medium, Fast) = Medium.
