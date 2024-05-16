@@ -41,3 +41,11 @@
 
 ### Example
 _Let's dive into an example of how fuzzy logic can be applied. Imagine we're designing a simple temperature control system for an air conditioner. Fuzzy logic allows us to create rules that capture the nuances of human reasoning._
+
+1. **Problem Statement**
+    - We want to maintain a comfortable room temperature.
+    - The air conditioner has two input variables:
+        - **Temperature (T)**: Measured in degree Celsius.
+        - **Cooling Power (CP)**: A value between 0 and 1, representing how much cooling power the AC should provide (0: no cooling, 1: maximum cooling).
+    - The output variable is the **Fan Speed (FS)**, which determines how fast the fan should run (low, medium, or high).
+      
