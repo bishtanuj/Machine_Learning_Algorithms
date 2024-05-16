@@ -92,4 +92,4 @@ _Let's dive into an example of how fuzzy logic can be applied. Imagine we're des
      
 > _In this example, fuzzy logic allows us to handle imprecise inputs (temperature) and make decisions based on linguistic rules. The fan speed adapts smoothly to changing conditions, providing a more natural and human like control system._
 
-> _Remeber that this is the simplified example, bit real-world applications of fuzzy logic can be much more complex and powerful!_
+> _Remeber that this is the simplified example, but real-world applications of fuzzy logic can be much more complex and powerful!_
