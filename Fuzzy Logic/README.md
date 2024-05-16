@@ -40,4 +40,4 @@
 > _Fuzzy Logic provides a powerful way to handle uncertainity and vagueness, making it a valuable tool in various real-world scenarios._
 
 ### Example
-_Let's dive into an example of how fuzzy logic can be applied. Imagine we're designing a simple temperature control system for an air conditioner._
+_Let's dive into an example of how fuzzy logic can be applied. Imagine we're designing a simple temperature control system for an air conditioner. Fuzzy logic allows us to create rules that capture the nuances of human reasoning._
