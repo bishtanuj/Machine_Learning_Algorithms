@@ -85,3 +85,7 @@ _Let's dive into an example of how fuzzy logic can be applied. Imagine we're des
      
     - Combine the results using the maximum operator:
         - FS = max(Slow, Medium, Fast) = Medium.
+     
+6. **Defuzzification**
+    - Conevrt the fuzzy output (Medium) into a crisp value (fan speed):
+        - We can use the cetroid method or other defuzzification techniques. 
