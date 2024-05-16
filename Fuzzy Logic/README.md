@@ -73,4 +73,5 @@ _Let's dive into an example of how fuzzy logic can be applied. Imagine we're des
         - If T is _Hot_ or CP is _Strong_, then FS is _Fast_.
      
 4. **Fuzzification**
-    - Given the current temperature (e.g., T = 25 &deg;C)   
+    - Given the current temperature (e.g., T = 25&deg;C) and cooling power (e.g., CP = 0.7), we determine their membership degrees in the fuzzy sets.
+    - For T = 25&deg;C: Cold = 0, Comfortable = 0.5, Hot = 0.5. 
