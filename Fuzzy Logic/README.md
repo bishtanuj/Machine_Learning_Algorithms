@@ -48,4 +48,11 @@ _Let's dive into an example of how fuzzy logic can be applied. Imagine we're des
         - **Temperature (T)**: Measured in degree Celsius.
         - **Cooling Power (CP)**: A value between 0 and 1, representing how much cooling power the AC should provide (0: no cooling, 1: maximum cooling).
     - The output variable is the **Fan Speed (FS)**, which determines how fast the fan should run (low, medium, or high).
+  
+2. **Fuzzy Sets**
+    - We define fuzzy sets for each input and output variable:
+        - **Temperature (T)**:
+            - Cold: T is low.
+            - Comfortable: T is moderate.
+            - Hot: T is high.
       
