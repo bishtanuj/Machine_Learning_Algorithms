@@ -7,3 +7,4 @@ _Neural networks are machine learning models that process and learn from data by
 ### How do neural network work?
 - Key components of a neural network:
     - **Neurons**: These are the basic processing units. They receive inputs, apply activation functions, and produce outputs.
+    - **Connections**: Neurons are interconnected via weighted connections.
