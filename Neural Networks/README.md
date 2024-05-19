@@ -11,3 +11,6 @@ _Neural networks are machine learning models that process and learn from data by
     - **Weights and Biases**: These regulate information transfer between neurons.
     - **Activation Functions**: Determine whether the neuron "fires" based on its input.
     - **Learning Rule**: Adjusts weights and biases during training.
+ 
+- The process:
+    - **Input Computation**: Neurons receive input data.
