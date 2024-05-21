@@ -33,3 +33,5 @@ Some popular ensemble models include:
 - **Feature Importance**: Determining which features contribute most to predictions.
 
 > _Remember, **Random Forest** leverages the collective wisdom of diverse decision trees to make the robust predictions!_
+
+---
