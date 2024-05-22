@@ -17,3 +17,5 @@ There are following types of decision tree algorithms:
 * High variance estimators
 * More Costly
 * Not fully supported in scikit-learn
+
+---
