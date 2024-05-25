@@ -97,3 +97,7 @@ _Being powerful, Neural networks, come with their fair share of challenges. Let'
 9. **Training Time**
     - Training deep networks can take days or weeks.
     - Efficient optimization algorithms (Adam, RMSProp) and distributed training help speed up convergence.
+  
+10. **Trade-offs in Model Complexity**
+    - Increasing model complexity (more layers, parameters) improves performance but risks overfitting.
+    - Striking the right balance is essential.
