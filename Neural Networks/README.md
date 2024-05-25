@@ -34,3 +34,8 @@ _Certainly! The evolution of neural networks is fascinating journey that has tra
     - In the 1960s, the **multilayer perceptron** emerged, allowing for deeper architectures.
     - MLPs introduced hidden layers between input and output layers, enabling complex transformations.
     - Despite advancements, training deep networks remained challenging due to the **vanishing gradient problem**.
+  
+3. **Backpropagation and Activation Functions**
+    - In the 1980s, **Backpropagation** became a breakthrough. It allowed efficient weight updates during training.
+    - Activation functions (e.g., sigmoid, ReLU) were introduced to introduce non-linearity.
+    - These developments paved the way for deeper networks.
