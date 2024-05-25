@@ -20,5 +20,5 @@ _Neural networks are machine learning models that process and learn from data by
 ### Types of neural networks
 - **Feedforward Neural Networks (FNNs)**: Simplest type, with layers of interconnected neurons. Used for tasks like image classification.
 - **Convolutional Neural Networks (CNNs)**: Specialized for image processing. Utilize convolutional layers to extract features.
-- **Recurrent Neural Networks (RNNs)**
-- **Long Short-Term Memory (LSTM)**
+- **Recurrent Neural Networks (RNNs)**: Handle sequential data (e.g., time series, natural language). Have loops to maintain memory.
+- **Long Short-Term Memory (LSTM)**: A type of RNN with improved memory handling.
