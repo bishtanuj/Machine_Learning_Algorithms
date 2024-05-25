@@ -29,3 +29,8 @@ _Certainly! The evolution of neural networks is fascinating journey that has tra
     - In the 1940s, Warren McCulloch and Walter Pitts introduced the **perceptron**, a basic neural network model inspired by the human brain.
     - The perceptron had two inputs and a single output, mimicking a simple decision-making process.
     - However, its limitations (e.g., inability to handle non-linear problems) led to its decline.
+  
+2. **Multilayer Perceptron (MLP)**
+    - In the 1960s, the **multilayer perceptron** emerged, allowing for deeper architectures.
+    - MLPs introduced hidden layers between input and output layers, enabling complex transformations.
+    - Despite advancements, training deep networks remained challenging due to the **vanishing gradient problem**.
