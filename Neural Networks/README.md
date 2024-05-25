@@ -70,3 +70,7 @@ _Being powerful, Neural networks, come with their fair share of challenges. Let'
 3. **Limited Labeled Data**
     - Deep learning thrives on large labeled datasets, but collecting high-quality annotations can be expensive and time-consuming.
     - Transfer learning (using pre-trained models) and data augmentation help address this issue.
+  
+4. **Hyperparameter Tuning**
+    - Choose the right learning rate, batch size, and architecture hyperparameter is challenging.
+    - Grid search, random search, and Bayesian optimization aid in finding optimal settings.
