@@ -89,3 +89,7 @@ _Being powerful, Neural networks, come with their fair share of challenges. Let'
     - Neural networks are often considered "black boxes".
     - Understanding why a model makes certain predictions is crucial for trust and safety.
     - Techniques like SHAP values and attention mechanisms aid interpretability.
+  
+8. **Adversarial Attacks**
+    - Neural netwroks are vulnerable to adversarial examples - small perturbations that fool the model.
+    - Robustness techniques (adversarial training, defensive distillation) mitigate these attacks.
