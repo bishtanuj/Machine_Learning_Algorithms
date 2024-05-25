@@ -93,3 +93,7 @@ _Being powerful, Neural networks, come with their fair share of challenges. Let'
 8. **Adversarial Attacks**
     - Neural netwroks are vulnerable to adversarial examples - small perturbations that fool the model.
     - Robustness techniques (adversarial training, defensive distillation) mitigate these attacks.
+  
+9. **Training Time**
+    - Training deep networks can take days or weeks.
+    - Efficient optimization algorithms (Adam, RMSProp) and distributed training help speed up convergence.
