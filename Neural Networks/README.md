@@ -49,3 +49,8 @@ _Certainly! The evolution of neural networks is fascinating journey that has tra
     - **Autoencoders**, **Long Short-Term Memory (LSTM)** networks, and **Gated Recurrent Units (GRUs)** improved memory handling.
     - **Attention mechanisms** enhanced sequence-to-sequence tasks (e.g., machine translation).
     - **Transformer architectures** (e.g., BERT, GPT) achieved state-of-the-art result in NLP.
+  
+6. **Current Landscape**
+    - **Generative Adversarial Networks (GANs)** create realistic images.
+    - **Capsule Networks** aim to address limitations of CNNs.
+    - **Graph neural networks** handle graph-structured data.
