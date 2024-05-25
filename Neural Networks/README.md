@@ -54,3 +54,6 @@ _Certainly! The evolution of neural networks is fascinating journey that has tra
     - **Generative Adversarial Networks (GANs)** create realistic images.
     - **Capsule Networks** aim to address limitations of CNNs.
     - **Graph neural networks** handle graph-structured data.
+  
+### Challenges of Neural Network
+_Being powerful, Neural networks, come with their fair share of challenges. Let's explore some of the key hurdles:_
