@@ -16,3 +16,7 @@ _Neural networks are machine learning models that process and learn from data by
     - **Input Computation**: Neurons receive input data.
     - **Output Generation**: Neurons process the input and produce an output.
     - **Iterative Refinement**: The network adjusts weights and biases to improve performance over time.
+ 
+### Types of neural networks
+- **Feedforward Neural Networks (FNNs)**
+- **Convolutional Neural Networks (CNNs)**
