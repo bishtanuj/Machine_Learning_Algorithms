@@ -44,3 +44,8 @@ _Certainly! The evolution of neural networks is fascinating journey that has tra
     - The 2000s saw a resurgence of interest in neural networks, thanks to **deep learning**.
     - Researchers like Geoffrey Hinton and Yenn LeCun contributed significantly.
     - **Convolutional Neural Networks (CNNs)** revolutionized image recognition, while **Recurrent Neural Networks (RNNs)** handled sequential data.
+  
+5. **Complex Architectures**
+    - **Autoencoders, Long Short-Term Memory (LSTM)** networks, and **Gated Recurrent Units (GRUs)** improved memory handling.
+    - **Attention mechanisms** enhanced sequence-to-sequence tasks (e.g., machine translation).
+    - **Transformer architectures** (e.g., BERT, GPT) achieved state-of-the-art result in NLP.
