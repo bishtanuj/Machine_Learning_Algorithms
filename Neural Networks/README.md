@@ -22,3 +22,10 @@ _Neural networks are machine learning models that process and learn from data by
 - **Convolutional Neural Networks (CNNs)**: Specialized for image processing. Utilize convolutional layers to extract features.
 - **Recurrent Neural Networks (RNNs)**: Handle sequential data (e.g., time series, natural language). Have loops to maintain memory.
 - **Long Short-Term Memory (LSTM)**: A type of RNN with improved memory handling.
+
+### Evolution of Neural Network
+_Certainly! The evolution of neural networks is fascinating journey that has transformed simple models into powerful architectures. Let's explore this tapestry:_
+1. **Early Beginnings: Perceptron**
+    - In the 1940s, Warren McCulloch and Walter Pitts introduced the **perceptron**, a basic neural network model inspired by the human brain.
+    - The perceptron had two inputs and a single output, mimicking a simple decision-making process.
+    - However, its limitations (e.g., inability to handle non-linear problems) led to its decline.
