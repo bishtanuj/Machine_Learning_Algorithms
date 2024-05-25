@@ -57,3 +57,7 @@ _Certainly! The evolution of neural networks is fascinating journey that has tra
   
 ### Challenges of Neural Network
 _Being powerful, Neural networks, come with their fair share of challenges. Let's explore some of the key hurdles:_
+1. **Vanishing Gradients**
+    - During training , gradients can become extremely small as they propagate backward through layers.
+    - This phenomenon affects deep networks, making it hard to update weights effectively.
+    - Solutions include using activation functions that mitigate vanishing gradients (e.g., ReLU) and techniques like batch normalization.
