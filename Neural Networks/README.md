@@ -20,3 +20,5 @@ _Neural networks are machine learning models that process and learn from data by
 ### Types of neural networks
 - **Feedforward Neural Networks (FNNs)**
 - **Convolutional Neural Networks (CNNs)**
+- **Recurrent Neural Networks (RNNs)**
+- **Long Short-Term Memory (LSTM)**
