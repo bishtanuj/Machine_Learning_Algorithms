@@ -39,3 +39,8 @@ _Certainly! The evolution of neural networks is fascinating journey that has tra
     - In the 1980s, **Backpropagation** became a breakthrough. It allowed efficient weight updates during training.
     - Activation functions (e.g., sigmoid, ReLU) were introduced to introduce non-linearity.
     - These developments paved the way for deeper networks.
+  
+4. **Deep Learning Renaissance**
+    - The 2000s saw a resurgence of interest in neural networks, thanks to **deep learning**.
+    - Researchers like Geoffrey Hinton and Yenn LeCun contributed significantly.
+    - **Convolutional Neural Networks (CNNs)** revolutionized image recognition, while **Recurrent Neural Networks (RNNs)** handled sequential data.
