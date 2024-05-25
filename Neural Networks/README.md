@@ -61,3 +61,8 @@ _Being powerful, Neural networks, come with their fair share of challenges. Let'
     - During training , gradients can become extremely small as they propagate backward through layers.
     - This phenomenon affects deep networks, making it hard to update weights effectively.
     - Solutions include using activation functions that mitigate vanishing gradients (e.g., ReLU) and techniques like batch normalization.
+  
+2. **Overfitting**
+    - Neural networks can memorize training data, leading to poor generalization on unseen examples.
+    - Regularization techniques (dropout, weight decay) help combat overfitting.
+    - Proper validation and early stopping are crucial.
