@@ -79,3 +79,8 @@ _Being powerful, Neural networks, come with their fair share of challenges. Let'
     - Designing neural network architectures requires expertise.
     - Balancing depth, width, and skip connections is an art.
     - AutoML tools can assist in architecture search.
+  
+6. **Computation and Memory Constraints**
+    - Training deep networks demands significant computational resources (GPUs, TPUs).
+    - Memory limitations affect batch size and model size.
+    - Model quantization and pruning help reduce memory requirements.
