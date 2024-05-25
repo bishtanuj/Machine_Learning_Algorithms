@@ -66,3 +66,7 @@ _Being powerful, Neural networks, come with their fair share of challenges. Let'
     - Neural networks can memorize training data, leading to poor generalization on unseen examples.
     - Regularization techniques (dropout, weight decay) help combat overfitting.
     - Proper validation and early stopping are crucial.
+  
+3. **Limited Labeled Data**
+    - Deep learning thrives on large labeled datasets, but collecting high-quality annotations can be expensive and time-consuming.
+    - Transfer learning (using pre-trained models) and data augmentation help address this issue.
