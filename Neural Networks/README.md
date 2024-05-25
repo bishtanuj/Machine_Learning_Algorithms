@@ -18,7 +18,7 @@ _Neural networks are machine learning models that process and learn from data by
     - **Iterative Refinement**: The network adjusts weights and biases to improve performance over time.
  
 ### Types of neural networks
-- **Feedforward Neural Networks (FNNs)**
-- **Convolutional Neural Networks (CNNs)**
+- **Feedforward Neural Networks (FNNs)**: Simplest type, with layers of interconnected neurons. Used for tasks like image classification.
+- **Convolutional Neural Networks (CNNs)**: Specialized for image processing. Utilize convolutional layers to extract features.
 - **Recurrent Neural Networks (RNNs)**
 - **Long Short-Term Memory (LSTM)**
