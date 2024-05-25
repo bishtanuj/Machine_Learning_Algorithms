@@ -84,3 +84,8 @@ _Being powerful, Neural networks, come with their fair share of challenges. Let'
     - Training deep networks demands significant computational resources (GPUs, TPUs).
     - Memory limitations affect batch size and model size.
     - Model quantization and pruning help reduce memory requirements.
+  
+7. **Interpretability**
+    - Neural networks are often considered "black boxes".
+    - Understanding why a model makes certain predictions is crucial for trust and safety.
+    - Techniques like SHAP values and attention mechanisms aid interpretability.
