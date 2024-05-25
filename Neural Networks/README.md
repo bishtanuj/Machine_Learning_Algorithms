@@ -74,3 +74,8 @@ _Being powerful, Neural networks, come with their fair share of challenges. Let'
 4. **Hyperparameter Tuning**
     - Choose the right learning rate, batch size, and architecture hyperparameter is challenging.
     - Grid search, random search, and Bayesian optimization aid in finding optimal settings.
+  
+5. **Complex Architectures**
+    - Designing neural network architectures requires expertise.
+    - Balancing depth, width, and skip connections is an art.
+    - AutoML tools can assist in architecture search.
