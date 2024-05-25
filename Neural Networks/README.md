@@ -46,6 +46,6 @@ _Certainly! The evolution of neural networks is fascinating journey that has tra
     - **Convolutional Neural Networks (CNNs)** revolutionized image recognition, while **Recurrent Neural Networks (RNNs)** handled sequential data.
   
 5. **Complex Architectures**
-    - **Autoencoders, Long Short-Term Memory (LSTM)** networks, and **Gated Recurrent Units (GRUs)** improved memory handling.
+    - **Autoencoders**, **Long Short-Term Memory (LSTM)** networks, and **Gated Recurrent Units (GRUs)** improved memory handling.
     - **Attention mechanisms** enhanced sequence-to-sequence tasks (e.g., machine translation).
     - **Transformer architectures** (e.g., BERT, GPT) achieved state-of-the-art result in NLP.
