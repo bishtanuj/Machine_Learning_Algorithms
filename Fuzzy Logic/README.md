@@ -88,7 +88,7 @@ _Let's dive into an example of how fuzzy logic can be applied. Imagine we're des
      
 6. **Defuzzification**
     - Conevrt the fuzzy output (Medium) into a crisp value (fan speed):
-        - We can use the cetroid method or other defuzzification techniques.
+        - We can use the centroid method or other defuzzification techniques.
      
 > _In this example, fuzzy logic allows us to handle imprecise inputs (temperature) and make decisions based on linguistic rules. The fan speed adapts smoothly to changing conditions, providing a more natural and human like control system._
 
