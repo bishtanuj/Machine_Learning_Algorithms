@@ -101,3 +101,5 @@ _Being powerful, Neural networks, come with their fair share of challenges. Let'
 10. **Trade-offs in Model Complexity**
     - Increasing model complexity (more layers, parameters) improves performance but risks overfitting.
     - Striking the right balance is essential.
+
+---
