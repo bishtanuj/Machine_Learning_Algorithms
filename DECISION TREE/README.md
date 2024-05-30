@@ -8,9 +8,9 @@ There are following types of decision tree algorithms:
 3. **CART:** Stands for "Classification and Regreesion Tree" and was introduced by Leo Breiman. This algorithm typically utilizes Gini impurity to identify the ideal attribute to split on. Gini impurity measures how often a randomly chosen attribute is misclassified. When evaluating using Gini impurity, a lower value is more ideal.
 
 ## _Advantages of Decision Tree_
-* Easy to interpret
-* Little to no data preparation required
-* More Flexible
+- Easy to interpret
+- Little to no data preparation required
+- More Flexible
 
 ## _Disadvantages of Decision Tree_
 * Prone to overfitting
