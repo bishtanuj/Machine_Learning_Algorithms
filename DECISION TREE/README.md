@@ -13,9 +13,9 @@ There are following types of decision tree algorithms:
 - More Flexible
 
 ## _Disadvantages of Decision Tree_
-* Prone to overfitting
-* High variance estimators
-* More Costly
-* Not fully supported in scikit-learn
+- Prone to overfitting
+- High variance estimators
+- More Costly
+- Not fully supported in scikit-learn
 
 ---
